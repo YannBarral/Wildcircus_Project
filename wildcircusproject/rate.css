@@ -1,0 +1,342 @@
+h1
+{
+	font-size: 150px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	text-align: top;
+	position: relative;
+	top: -85px;
+	
+}
+h2
+{
+	font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+	text-decoration: underline;
+	position: relative;
+	top: -10px;
+	margin: 150px;
+	text-align: center;
+}
+
+
+.chapiteau
+{
+	text-align: center;
+}
+
+
+body
+{
+	background-image: url("fontss.png");
+}
+p
+{
+
+color: black;
+font-family: 'Indie Flower', cursive;
+font-size: 20px;
+font-weight: bold;
+position: relative;
+top: -30px;
+text-align: left;
+
+}
+a
+{
+	color: blue;
+	text-decoration: none;
+}
+a:hover
+{
+color: yellow;
+text-decoration: underline;
+}
+
+
+header img
+{
+	display: block; position: absolute; top: -250px; left: 150px; 
+}
+
+#navigation li {
+  display: inline;
+  font-size: 35px;
+  position: relative;
+  top: 270px;
+  left: 290px;
+  
+ 
+}
+
+ul#navigation li { 
+display : inline;
+padding : 0 0.9em; 
+}
+ul#navigation {
+list-style-type : none; 
+font-family: 'Indie Flower', cursive;
+}
+
+.clown
+{
+	position: relative;
+	top: -130px;
+	text-align: left;
+    left: 130px;
+	
+}
+.contorsioniste
+{
+	position: relative;
+	top: -155px;
+	text-align: left;
+	left: 130px;
+}
+.fauve
+{
+	position: relative;
+	top: -180px;
+	text-align: left;
+	left: 130px;
+}
+.igor
+{
+position: relative;
+	top: -200px;
+	text-align: left;
+	left: 130px;	
+}
+.massue
+{
+	position: relative;
+	top: -220px;
+	text-align: left;
+	left: 130px;
+}
+.final
+{
+	position: relative;
+	top: -240px;
+	text-align: left;
+	left: 130px;
+}
+.chapite
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.tigre
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.jongleur
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.clownchien
+{
+position: relative;
+	top: -4990px;
+	left: 150px;	
+}
+.chameau
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.hommecanon
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.tente
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.gars
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+.interieur
+{
+	position: relative;
+	top: -4990px;
+	left: 150px;
+}
+
+.heure
+{
+	color: red;
+	font-size: 32px;
+}
+.heure2
+{
+	color: red;
+	font-size: 32px;
+}
+.heure3
+{
+color: red;
+	font-size: 32px;	
+}
+.heure4
+{
+	color: red;
+	font-size: 32px;
+}
+.heure5
+{
+	color: red;
+	font-size: 32px;
+}
+.heure6
+{
+	color: red;
+	font-size: 32px;
+}
+.tarif
+{
+	color: red;
+	font-size: 32px;
+}
+section{
+background: rgba(255, 255, 255, 0.5);
+left: 500px;
+position: relative;
+margin-right: 1000px;
+
+
+
+}
+.nl
+{
+	color: red;
+	font-size: 32px;
+}
+.bl
+{
+color: red;
+font-size: 32px;	
+}
+.fl
+{
+	color: red;
+	font-size: 32px;
+}
+.pl
+{
+	color: red;
+	font-size: 32px;
+}
+.at
+{
+	color: red;
+	font-size: 32px;
+}
+.br
+{
+	color: red;
+	font-size: 32px;
+}
+.br2
+{
+	color: red;
+	font-size: 32px;
+}
+.us
+{
+	color: red;
+	font-size: 32px;
+}
+.ca
+{
+	color: red;
+	font-size: 32px;
+}
+
+.plancirque
+{
+	position: relative;
+	top: -4370px;
+	left: 110px;
+	background: rgba(255, 255, 255, 0.5);
+	border-radius: 22px;
+
+}
+.ter
+{
+	position: relative;
+	top: -106px;
+	left: 700px;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+    margin: 1200px;
+    margin-top: 80px;
+    margin-left: -60px;
+		
+}
+.ter2
+{
+	position: relative;
+	top: -1545px;
+	left: 900px;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+    margin: 1200px;
+    margin-top: 80px;
+    margin-left: -60px;
+}
+.lodge
+{
+	position: relative;
+	top: -2950px;
+	left: 1100px;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+    margin: 1200px;
+    margin-top: 80px;
+    margin-left: -60px;
+	margin-right: 1200px;
+}
+.place1
+{
+	font-size: 25px;
+	color: red
+}
+.place2
+{
+	font-size: 25px;
+	color: red
+}
+
+.place3
+{
+	font-size: 25px;
+	color: red
+}
+.reseaux_sociaux
+{
+	position: relative;
+	top: -5020px;
+	margin-left: 150px;
+	
+}
+.banniere
+{
+	position: relative;
+	top: -5020px;
+	left: 150px;
+	display: inline-block;
+}

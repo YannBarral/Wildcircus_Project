@@ -1,0 +1,124 @@
+h1
+{
+	font-size: 150px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	text-align: top;
+	position: relative;
+	top: -85px;
+	
+}
+h2
+{
+	font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    text-decoration: underline;	
+	position: relative;
+	top: 70px;
+	margin: 150px;
+}
+.programme
+{
+font-family: 'Indie Flower', cursive;
+font-size: 65px;
+position: relative;
+top: -280px;
+text-align: center;	
+}
+.chapiteau
+{
+	text-align: center;
+}
+
+
+body
+{
+	background-image: url("fontss.png");
+}
+p
+{
+
+color: black;
+font-family: 'Indie Flower', cursive;
+font-size: 27px;
+font-weight: bold;
+position: relative;
+top: 10px;
+width: 450px;
+text-align: justify;
+padding: 12px;
+margin: 50px;
+background: rgba(255, 255, 255, 0.5);
+border-radius: 10px;
+left: 60px;
+}
+
+
+a
+{
+	color: blue;
+	text-decoration: none;
+}
+a:hover
+{
+color: yellow;
+text-decoration: underline;
+}
+section
+{
+	text-align: center;
+	position: relative;
+	top: -70px;
+	left: 40px;
+}
+article
+{
+	position: relative;
+	top: -280px;
+}
+
+
+#navigation li {
+  display: inline;
+  font-size: 35px;
+  position: relative;
+  top: 270px;
+  left: 290px;
+  
+  
+ 
+}
+
+ul#navigation li { 
+display : inline;
+padding : 0 0.9em; 
+}
+ul#navigation {
+list-style-type : none; 
+font-family: 'Indie Flower', cursive;
+}
+
+
+
+.reseaux_sociaux
+{
+	position: relative;
+	top: -1005px;
+	margin-left: 150px;
+	
+}
+.banniere
+{
+	position: relative;
+	top: -770px;
+	left: 150px;
+	display: inline-block;
+}
+
+.ieva
+{
+	position: relative;
+	top: -550px;
+	left: 650px;
+	
+}
