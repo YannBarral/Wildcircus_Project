@@ -1,1 +1,1 @@
-Projet de séléction à la wild code school
+Projet de selection à la wild code school
